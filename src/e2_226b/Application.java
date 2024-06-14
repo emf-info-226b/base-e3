@@ -35,7 +35,7 @@ public class Application {
         // MERCI DE DEPOSER VOS FICHERS DANS LE REPERTOIRE "files"
         String fichier_exemple = "./src/e2_226b/files/exemple.txt";
         
-        // Affichage des r�sultats 
+        // Affichage des resultats 
         System.out.println("----------------------------------");
         System.out.println("Demarrage de l'application");
         System.out.println("----------------------------------");
